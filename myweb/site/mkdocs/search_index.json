@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs11", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs11", 
+            "text": "", 
+            "title": "Welcome to MkDocs11"
+        }
+    ]
+}
